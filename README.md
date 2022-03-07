@@ -1,4 +1,4 @@
-# É Cara ou Coroa?
+<h1 align="center"> É Cara ou Coroa?</h1>
 
 ## Esse é um pequeno projeto realizado utilizando a linguagem Dart e o Flutter. É basicamente o "jogo" de cara ou coroa, ao clicar no botão "Jogar" o usuário é direcionado a uma segunda tela, onde o aplicativo irá escolher de maneira aleatória, "Cara" ou "Coroa". Clicando no botão de "Voltar", o usuário é redirecionado novamente a tela inicial.
 ### Nesse projeto pude aprender e estudar melhor a navegação entre páginas, usando métodos como, Navigation.push e o Navigation.pop
